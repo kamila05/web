@@ -1,0 +1,64 @@
+body {
+    background-image: url("nr.png");
+}
+h1 {
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: black;
+}
+h3{
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color:orange;
+}
+h5 {
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color:white;
+    background-color: darkblue;
+}
+#header {
+    position: relative;
+    top: -10px;
+    background-color:cornflowerblue;
+}
+ul{
+    list-style-type: none;
+    position: fixed;
+    margin: -10px;
+}
+li {
+    display: inline;
+    border: 2px solid wheat;
+    font-family: Futura, Tahoma, sans-serif;
+    color: black;
+    padding: 5px;
+    background-color: white;
+}
+h4 {
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color:wheat;
+}
+h2 {
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color:white;
+}
+
+
